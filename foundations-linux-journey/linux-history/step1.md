@@ -1,25 +1,13 @@
-Hey, rookie! So you decided to dive into this wonderful world known as Linux? Well you better strap in, because it’s gonna be a long and hard road. My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
+Hello hello! So you decided to dive into this wonderful world known as Linux? 
 
-To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
+Incredible! 
 
-A decade or so later, Richard Stallman started working on the GNU (GNU is Not UNIX) project, the GNU kernel called Hurd, which unfortunately never came to completion. The GNU General Public License (GPL), a free software license, was also created as a result of this.
+Linux(or as it's more properly called GNU/Linux) is a family of operating systems used in all types of computers--from laptops to web servers to refrigerators to the virtual computer you see to the right of this text.  Linux is free software: free to use, free to hack on, and free to make your own.  It comes from a rich history of free, fully authorable software.
 
-The kernel is the most important piece in the operating system. It allows the hardware to talk to the software. It also does a whole lot of other things, but we’ll dig into that in a different course. For now, just know that the kernel controls pretty much everything that happens on your system.
+This lineage can make Linux an empowering, creatively powerful experience.  You will interact with computers in a uniquely personal way, making them your own and having them do exactly as you'd like.  This lineage also means there's a tremendous amount of diversity in what Linux means, how it looks, and what it's intended for.  
 
-During this time other efforts such as BSD, MINIX, etc were developed to be UNIX like-systems. However, one thing that all these UNIX like-systems had in common was the lack of a unified kernel.
+This diversity and creativity is incredible, but can make also make getting started feel overwhelming.  There's a whole host of new names, often referring to the same thing with subtle distinctions, and all these creative, open-ended ways to work with the system.  The Linux journey is not a straight path. It's not even a path at all.  It's a sprawling open field teeming with unique wildlife and distinct flora, all inviting and imposing at once.
 
-Then in 1991, a young fellow named Linus Torvalds started developing what we now know today as the Linux kernel.
+The set of scenarios you find here are intended to help you take the first step into this field, and give some names to the plants and bugs you find here.  All exercises can be done using the virtual computer you see on your right (don't worry about using it yet, just take a gander).  At the end of the journey, we'll offer some advice on how to install Linux on your own computer, and which distribution in the family of Linux distributions might be right for you.
 
-# Exercise
-
-Additional reading:
-
-* [GNU](https://www.gnu.org/home.en.html)
-* [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
-* [Richard Stallman](https://stallman.org/)
-* [Linux Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
-
-# Quiz
-
->>Q1: Who developed the Linux kernel?<<
-=== Linus Torvalds
+As with any journey to a new place, it can be good to know its history and some of the local names.  So Let's learn a bit of both now!
